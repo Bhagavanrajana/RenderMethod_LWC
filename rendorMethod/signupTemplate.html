@@ -1,0 +1,26 @@
+<template>
+    <lightning-card title="Rendering Multiple Templates" icon-name="custom:custom14">
+        <div class="slds-var-m-around_medium">
+            <h2 class="slds-text-heading_medium slds-var-m-bottom_medium">Signup Form</h2>
+
+            <lightning-input type="text" label="First Name"></lightning-input>
+            <lightning-input type="text" label="Last Name"></lightning-input>
+            <lightning-input type="email" label="Email Id"></lightning-input>
+            <lightning-input type="password" label="password" class="slds-var-m-bottom_medium"></lightning-input>
+            
+            <lightning-button variant="destructive"
+            label="back"
+            title="back"
+            onclick={handleClick}
+            class="slds-m-left_x-small">
+            </lightning-button>
+
+            <lightning-button variant="success"
+            label="signup"
+            title="signup"
+            onclick={submitHandler}
+            class="slds-m-left_x-small">
+            </lightning-button>
+        </div>
+    </lightning-card>
+</template>
