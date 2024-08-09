@@ -14,4 +14,4 @@ Using Lifecycle Hooks
 The render method can be combined with LWC lifecycle hooks like connectedCallback or renderedCallback to update the component state and re-render the component accordingly.
 
 Conclusion:-
-The render method in LWC provides a flexible way to control which template your component displays. By leveraging this method, you can create dynamic and responsive user interfaces that adapt to the state of your application..
+The render method in LWC provides a flexible way to control which template your component displays. By leveraging this method, you can create dynamic and responsive user interfaces that adapt to the state of your application.
