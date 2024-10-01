@@ -10,7 +10,7 @@ To utilize the render method effectively, you can define multiple HTML templates
 Define Multiple Templates:-
 Create separate HTML template files in the same component directory.
 
-Using Lifecycle Hooks
+Using Lifecycle Hooks:
 The render method can be combined with LWC lifecycle hooks like connectedCallback or renderedCallback to update the component state and re-render the component accordingly.
 
 Conclusion:-
