@@ -1,7 +1,7 @@
                                                                         Lightning Web Components: render Method
 
 Introduction:-
-In Lightning Web Components (LWC), the render method allows developers to conditionally or dynamically choose a template to render. This method provides a powerful way to control the presentation of your component based on the component's state or props.
+In Lightning Web Components (LWC), the render method allows developers to conditionally or dynamically choose a template to render. This method provides a powerful way to control the presentation of your component based on the component's state or props..
 
 Usage:-
 Defining Multiple Templates
